@@ -1,0 +1,143 @@
+2022-04-27 13:56:29 [TRACE] 程式啟動
+2022-04-27 13:58:31 [TRACE] 程式啟動
+2022-04-27 13:59:31 [TRACE] 程式啟動
+2022-04-27 13:59:41 [ERROR] 【2022-04-27 13:59:41.825】 無法載入檔案或組件 'log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' 或其相依性的其中之一。 系統找不到指定的檔案。
+2022-04-27 13:59:45 [TRACE] 程式關閉
+2022-04-27 13:59:55 [TRACE] 程式啟動
+2022-04-27 13:59:58 [ERROR] 【2022-04-27 13:59:58.716】 無法載入檔案或組件 'log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' 或其相依性的其中之一。 系統找不到指定的檔案。
+2022-04-27 14:00:02 [TRACE] 程式關閉
+2022-04-27 14:00:26 [TRACE] 程式啟動
+2022-04-27 14:01:17 [TRACE] 程式啟動
+2022-04-27 14:02:29 [TRACE] 程式啟動
+2022-04-27 14:03:02 [TRACE] 程式啟動
+2022-04-27 14:03:37 [TRACE] 程式啟動
+2022-04-27 14:03:48 [TRACE] 程式關閉
+2022-04-27 14:04:02 [TRACE] 程式啟動
+2022-04-27 14:04:08 [TRACE] 程式關閉
+2022-04-27 14:04:14 [TRACE] 程式啟動
+2022-04-27 14:04:31 [TRACE] 程式啟動
+2022-04-27 14:04:49 [INFO] 【2022-04-27 14:04:42.182】 SQL Server連線異常已經復歸
+2022-04-27 14:05:09 [TRACE] 程式關閉
+2022-04-27 14:38:37 [TRACE] 程式啟動
+2022-04-27 14:38:53 [INFO] 【2022-04-27 14:38:53.469】 SQL Server連線異常已經復歸
+2022-04-27 14:39:04 [TRACE] 程式關閉
+2022-04-27 14:39:20 [TRACE] 程式啟動
+2022-04-27 14:39:37 [INFO] 【2022-04-27 14:39:32.979】 SQL Server連線異常已經復歸
+2022-04-27 14:40:52 [TRACE] 程式啟動
+2022-04-27 14:41:43 [TRACE] 程式啟動
+2022-04-27 14:41:45 [INFO] 【2022-04-27 14:41:45.603】 SQL Server連線異常已經復歸
+2022-04-27 14:42:08 [TRACE] 程式關閉
+2022-04-27 14:42:41 [TRACE] 程式啟動
+2022-04-27 14:43:27 [TRACE] 程式啟動
+2022-04-27 14:43:57 [TRACE] 程式啟動
+2022-04-27 14:44:15 [TRACE] 程式啟動
+2022-04-27 14:45:07 [TRACE] 程式啟動
+2022-04-27 14:45:18 [TRACE] 程式啟動
+2022-04-27 14:45:24 [INFO] 【SQL Server連線異常已經復歸】
+2022-04-27 14:45:30 [INFO] 【SQL Server連線異常已經復歸12346】
+2022-04-27 14:45:45 [TRACE] 程式關閉
+2022-04-27 16:57:34 [TRACE] 程式啟動
+2022-04-27 16:58:03 [TRACE] 程式啟動
+2022-04-27 17:01:55 [TRACE] 程式啟動
+2022-04-27 17:03:33 [TRACE] 程式啟動
+2022-04-27 17:04:00 [TRACE] 程式啟動
+2022-04-27 17:32:47 [TRACE] 程式啟動
+2022-04-27 17:34:04 [TRACE] 程式啟動
+2022-04-27 17:35:32 [TRACE] 程式啟動
+2022-04-27 17:35:57 [TRACE] 程式啟動
+2022-04-27 19:49:40 [TRACE] 程式啟動
+2022-04-27 19:50:08 [TRACE] 程式啟動
+2022-04-27 19:50:22 [TRACE] 程式啟動
+2022-04-27 19:50:38 [TRACE] 程式啟動
+2022-04-27 19:52:39 [TRACE] 程式啟動
+2022-04-27 19:52:54 [TRACE] 程式啟動
+2022-04-27 20:15:41 [TRACE] 程式啟動
+2022-04-27 20:17:28 [TRACE] 程式啟動
+2022-04-27 20:19:33 [TRACE] 程式啟動
+2022-04-27 20:19:48 [TRACE] 程式啟動
+2022-04-27 20:21:31 [TRACE] 程式啟動
+2022-04-27 20:22:17 [TRACE] 程式啟動
+2022-04-27 20:22:53 [TRACE] 程式啟動
+2022-04-27 20:22:54 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:54 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:54 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:54 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:54 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:54 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:55 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:55 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:55 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:55 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:55 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:55 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:55 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:56 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:56 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:56 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:56 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:56 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:56 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:56 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:56 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:57 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:57 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:57 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:57 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:57 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:57 [ERROR] 【   於 SocketLib.SQLDB.DAL.DataAccess.DirectiveService.GetSAADirective(ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\DAL\DataAccess\DirectiveService.cs: 行 103
+   於 SocketLib.SQLDB.BLL.BusinessLogic.DirectiveManager.GetDirective(String SAASocketType, ReturnInfo& returnInfo) 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SQLDB\BLL\BusinessLogic\DirectiveManager.cs: 行 29
+   於 SocketLib.SocketCommand.SAACommand.SAAJsonReport() 於 C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\SocketLib\SocketCommand\SAACommand.cs: 行 45】
+2022-04-27 20:22:57 [TRACE] 程式關閉
+2022-04-27 20:23:09 [TRACE] 程式啟動

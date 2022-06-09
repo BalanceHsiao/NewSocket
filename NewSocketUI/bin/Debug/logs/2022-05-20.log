@@ -1,0 +1,369 @@
+2022-05-20 15:04:40 [TRACE] 程式啟動
+2022-05-20 15:04:40 [INFO] System,與Server端建立連線中
+2022-05-20 15:04:40 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:05:02 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:05:02 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:05:02 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:05:02 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:05:02 [INFO] System,Server 開啟連線通訊!
+2022-05-20 15:05:02 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:05:12 [INFO] System,與Server端建立連線中
+2022-05-20 15:05:12 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:05:33 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:05:33 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:05:33 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:05:33 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:05:44 [INFO] System,與Server端建立連線中
+2022-05-20 15:05:44 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:06:05 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:06:05 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:06:05 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:06:05 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:06:15 [INFO] System,與Server端建立連線中
+2022-05-20 15:06:15 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:06:37 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:06:37 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:06:37 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:06:37 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:06:47 [INFO] System,與Server端建立連線中
+2022-05-20 15:06:47 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:07:09 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:07:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:07:09 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:07:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:07:19 [INFO] System,與Server端建立連線中
+2022-05-20 15:07:19 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:07:40 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:07:40 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:07:40 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:07:40 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:07:50 [INFO] System,與Server端建立連線中
+2022-05-20 15:07:50 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:08:12 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:08:12 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:08:12 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:08:12 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:08:22 [INFO] System,與Server端建立連線中
+2022-05-20 15:08:22 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:08:43 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:08:43 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:08:43 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:08:43 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:08:53 [INFO] System,與Server端建立連線中
+2022-05-20 15:08:53 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:09:14 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:09:14 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:09:14 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:09:14 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:09:25 [INFO] System,與Server端建立連線中
+2022-05-20 15:09:25 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:09:46 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:09:46 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:09:46 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:09:46 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:09:56 [INFO] System,與Server端建立連線中
+2022-05-20 15:09:56 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:10:17 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:10:17 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:10:17 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:10:17 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:10:27 [INFO] System,與Server端建立連線中
+2022-05-20 15:10:27 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:10:48 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:10:49 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:10:49 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:10:49 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:10:59 [INFO] System,與Server端建立連線中
+2022-05-20 15:10:59 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:11:20 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:11:20 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:11:20 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:11:20 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:11:30 [INFO] System,與Server端建立連線中
+2022-05-20 15:11:30 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:11:51 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:11:51 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:11:51 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:11:52 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:12:02 [INFO] System,與Server端建立連線中
+2022-05-20 15:12:02 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:12:23 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:12:23 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:12:23 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:12:23 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:12:33 [INFO] System,與Server端建立連線中
+2022-05-20 15:12:33 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:12:54 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:12:54 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:12:54 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:12:55 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:13:05 [INFO] System,與Server端建立連線中
+2022-05-20 15:13:05 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:13:26 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:13:26 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:13:26 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:13:26 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:13:36 [INFO] System,與Server端建立連線中
+2022-05-20 15:13:37 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:13:58 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:13:58 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:13:58 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:13:58 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:14:08 [INFO] System,與Server端建立連線中
+2022-05-20 15:14:08 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:14:29 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:14:29 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:14:29 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:14:29 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:14:39 [INFO] System,與Server端建立連線中
+2022-05-20 15:14:39 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 15:15:00 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 15:15:00 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:15:00 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 15:15:00 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 15:15:11 [INFO] System,與Server端建立連線中
+2022-05-20 15:15:11 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:37:48 [TRACE] 程式啟動
+2022-05-20 17:37:48 [INFO] System,與Server端建立連線中
+2022-05-20 17:37:48 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:38:09 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:38:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:38:09 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:38:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:38:09 [INFO] System,Server 開啟連線通訊!
+2022-05-20 17:38:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:38:19 [INFO] System,與Server端建立連線中
+2022-05-20 17:38:19 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:38:32 [TRACE] 程式關閉
+2022-05-20 17:39:31 [TRACE] 程式啟動
+2022-05-20 17:39:31 [INFO] System,與Server端建立連線中
+2022-05-20 17:39:31 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:39:52 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:39:52 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:39:52 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:39:52 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:39:52 [INFO] System,Server 開啟連線通訊!
+2022-05-20 17:39:52 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:40:00 [TRACE] 程式關閉
+2022-05-20 17:40:53 [TRACE] 程式啟動
+2022-05-20 17:40:53 [INFO] System,與Server端建立連線中
+2022-05-20 17:42:24 [TRACE] 程式啟動
+2022-05-20 17:42:24 [INFO] System,與Server端建立連線中
+2022-05-20 17:42:26 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:42:47 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:42:52 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:42:52 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:42:52 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:42:52 [INFO] System,Server 開啟連線通訊!
+2022-05-20 17:42:52 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:43:02 [INFO] System,與Server端建立連線中
+2022-05-20 17:43:02 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:43:11 [TRACE] 程式關閉
+2022-05-20 17:43:48 [TRACE] 程式啟動
+2022-05-20 17:43:48 [INFO] System,與Server端建立連線中
+2022-05-20 17:43:48 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:44:09 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:44:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:44:09 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:44:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:44:09 [INFO] System,Server 開啟連線通訊!
+2022-05-20 17:44:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:44:19 [INFO] System,與Server端建立連線中
+2022-05-20 17:44:19 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:44:40 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:44:40 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:44:40 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:44:40 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:44:50 [INFO] System,與Server端建立連線中
+2022-05-20 17:44:50 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:45:11 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:45:11 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:45:11 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:45:11 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:45:21 [INFO] System,與Server端建立連線中
+2022-05-20 17:45:21 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:45:30 [TRACE] 程式關閉
+2022-05-20 17:49:51 [TRACE] 程式啟動
+2022-05-20 17:49:51 [INFO] System,與Server端建立連線中
+2022-05-20 17:49:51 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:50:12 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:50:12 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:50:12 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:50:12 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:50:12 [INFO] System,Server 開啟連線通訊!
+2022-05-20 17:50:12 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:50:22 [INFO] System,與Server端建立連線中
+2022-05-20 17:50:22 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:50:43 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:50:43 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:50:43 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:50:43 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:50:54 [INFO] System,與Server端建立連線中
+2022-05-20 17:50:54 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:50:56 [TRACE] 程式關閉
+2022-05-20 17:52:48 [TRACE] 程式啟動
+2022-05-20 17:52:48 [INFO] System,與Server端建立連線中
+2022-05-20 17:52:48 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:53:09 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:53:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:53:09 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:53:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:53:09 [INFO] System,Server 開啟連線通訊!
+2022-05-20 17:53:09 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:53:19 [INFO] System,與Server端建立連線中
+2022-05-20 17:53:19 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，連線中
+2022-05-20 17:53:40 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 192.168.1.2:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-05-20 17:53:40 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:53:40 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-05-20 17:53:40 [INFO] 客戶端連接:192.168.1.2-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-05-20 17:53:48 [TRACE] 程式關閉

@@ -1,0 +1,11 @@
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\obj\Debug\MessageHelper.csprojAssemblyReference.cache
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\obj\Debug\MessageHelper.csproj.CoreCompileInputs.cache
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\bin\Debug\MessageHelper.dll
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\bin\Debug\MessageHelper.pdb
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\bin\Debug\Newtonsoft.Json.dll
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\bin\Debug\NLog.dll
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\bin\Debug\Newtonsoft.Json.xml
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\bin\Debug\NLog.xml
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\obj\Debug\MessageHelper.csproj.CopyComplete
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\obj\Debug\MessageHelper.dll
+C:\尚智\原始程式碼\SAA\SAASocket\NewSocket\MessageHelper\obj\Debug\MessageHelper.pdb

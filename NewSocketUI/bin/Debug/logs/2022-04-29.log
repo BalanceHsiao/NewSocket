@@ -1,0 +1,362 @@
+2022-04-29 08:05:09 [TRACE] 程式啟動
+2022-04-29 08:05:09 [INFO] System,與Server端建立連線中
+2022-04-29 08:05:09 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:05:09 [INFO] System,Server 開啟連線通訊!
+2022-04-29 08:05:09 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:05:09 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 08:05:09 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:05:10 [INFO] 完成與Server端的連線建立!
+2022-04-29 08:05:10 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 08:05:21 [TRACE] 程式關閉
+2022-04-29 08:05:31 [TRACE] 程式啟動
+2022-04-29 08:05:31 [INFO] System,與Server端建立連線中
+2022-04-29 08:05:31 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:05:31 [INFO] System,Server 開啟連線通訊!
+2022-04-29 08:05:31 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:05:31 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 08:05:37 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:05:37 [INFO] 完成與Server端的連線建立!
+2022-04-29 08:05:37 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 08:14:33 [TRACE] 程式啟動
+2022-04-29 08:14:33 [INFO] System,與Server端建立連線中
+2022-04-29 08:14:33 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:14:33 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 08:14:35 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:14:35 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:14:35 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:14:35 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:14:35 [INFO] System,Server 開啟連線通訊!
+2022-04-29 08:14:35 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:24:26 [TRACE] 程式啟動
+2022-04-29 08:24:26 [INFO] System,與Server端建立連線中
+2022-04-29 08:24:26 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:24:26 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 08:24:28 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:24:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:24:28 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:24:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:24:28 [INFO] System,Server 開啟連線通訊!
+2022-04-29 08:24:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:25:27 [TRACE] 程式啟動
+2022-04-29 08:25:27 [INFO] System,與Server端建立連線中
+2022-04-29 08:25:27 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:25:27 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 08:25:30 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:25:30 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:25:30 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:25:30 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:25:30 [INFO] System,Server 開啟連線通訊!
+2022-04-29 08:25:30 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:25:47 [INFO] System,與Server端建立連線中
+2022-04-29 08:25:47 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:25:47 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:25:49 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:25:49 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:25:49 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:25:49 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:25:59 [INFO] System,與Server端建立連線中
+2022-04-29 08:26:02 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:26:28 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:26:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:26:28 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:26:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:26:39 [INFO] System,與Server端建立連線中
+2022-04-29 08:26:39 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:26:39 [INFO] 完成與Server端的連線建立!
+2022-04-29 08:26:39 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 08:53:12 [TRACE] 程式啟動
+2022-04-29 08:53:12 [INFO] System,與Server端建立連線中
+2022-04-29 08:53:12 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:53:12 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 08:53:14 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:53:14 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:53:14 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:53:14 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:53:14 [INFO] System,Server 開啟連線通訊!
+2022-04-29 08:53:14 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:53:28 [INFO] System,與Server端建立連線中
+2022-04-29 08:53:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:53:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:53:31 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:53:31 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:53:31 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:53:31 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:54:16 [TRACE] 程式啟動
+2022-04-29 08:54:17 [INFO] System,與Server端建立連線中
+2022-04-29 08:54:17 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:54:17 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 08:54:19 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:54:19 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:54:19 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:54:19 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:54:19 [INFO] System,Server 開啟連線通訊!
+2022-04-29 08:54:19 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:54:19 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:54:29 [INFO] System,與Server端建立連線中
+2022-04-29 08:54:29 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:54:31 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:54:31 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:54:31 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:54:31 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:54:44 [TRACE] 程式啟動
+2022-04-29 08:54:44 [INFO] System,與Server端建立連線中
+2022-04-29 08:54:44 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:54:44 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 08:54:46 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:54:46 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:54:46 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:54:46 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:54:46 [INFO] System,Server 開啟連線通訊!
+2022-04-29 08:54:46 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:55:15 [INFO] System,與Server端建立連線中
+2022-04-29 08:55:26 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:55:26 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:55:28 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:55:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:55:28 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:55:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:55:39 [INFO] System,與Server端建立連線中
+2022-04-29 08:55:39 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:55:41 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 08:55:41 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:55:41 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 08:55:41 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 08:55:51 [INFO] System,與Server端建立連線中
+2022-04-29 08:55:51 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 08:55:52 [INFO] 完成與Server端的連線建立!
+2022-04-29 08:55:52 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:04:25 [TRACE] 程式啟動
+2022-04-29 09:04:26 [INFO] System,與Server端建立連線中
+2022-04-29 09:04:26 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:04:26 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:04:28 [ERROR] MyClientSocket.Start(), Exception：System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 127.0.0.1:6000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 WinSocket.MyClientSocket.Start(Socket socket, IPAddress sRemote, Int32 nPort, String sSubject)
+2022-04-29 09:04:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 09:04:28 [ERROR] WinSocketClient.Stop(), Exception：System.Net.Sockets.SocketException (0x80004005): 不允許傳送或接收資料的要求，因為通訊端並未連線，而且 (在資料包通訊端使用 sendto 呼叫進行傳送時) 並未提供位址。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 WinSocket.WinSocketClient.Stop()
+2022-04-29 09:04:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 09:04:28 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:04:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:04:28 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:04:38 [INFO] System,與Server端建立連線中
+2022-04-29 09:04:38 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:04:39 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:04:39 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:04:57 [TRACE] 程式啟動
+2022-04-29 09:04:58 [INFO] System,與Server端建立連線中
+2022-04-29 09:04:58 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:04:58 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:04:58 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:04:58 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:05:45 [TRACE] 程式啟動
+2022-04-29 09:05:45 [INFO] System,與Server端建立連線中
+2022-04-29 09:05:45 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:05:45 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:05:45 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:05:45 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:05:45 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:05:45 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:05:45 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:06:05 [TRACE] 程式啟動
+2022-04-29 09:06:05 [INFO] System,與Server端建立連線中
+2022-04-29 09:06:05 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:06:05 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:06:05 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:06:05 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:06:44 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:06:44 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:06:44 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:08:11 [TRACE] 程式啟動
+2022-04-29 09:08:11 [INFO] System,與Server端建立連線中
+2022-04-29 09:08:11 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:08:11 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:08:11 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:08:11 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:08:12 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:08:12 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:08:12 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:08:14 [TRACE] 程式關閉
+2022-04-29 09:08:23 [TRACE] 程式啟動
+2022-04-29 09:08:23 [INFO] System,與Server端建立連線中
+2022-04-29 09:08:23 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:08:23 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:08:23 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:08:23 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:08:38 [TRACE] 程式啟動
+2022-04-29 09:08:38 [INFO] System,與Server端建立連線中
+2022-04-29 09:08:38 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:08:38 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:08:38 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:08:38 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:08:41 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:08:41 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:08:41 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:09:42 [TRACE] 程式啟動
+2022-04-29 09:09:42 [INFO] System,與Server端建立連線中
+2022-04-29 09:09:42 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:09:42 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:09:42 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:09:42 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:09:42 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:09:43 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:09:43 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:09:59 [TRACE] 程式啟動
+2022-04-29 09:09:59 [INFO] System,與Server端建立連線中
+2022-04-29 09:09:59 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:09:59 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:09:59 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:09:59 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:10:01 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:10:02 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:10:02 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:27:43 [TRACE] 程式啟動
+2022-04-29 09:27:43 [INFO] System,與Server端建立連線中
+2022-04-29 09:27:43 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:27:43 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:27:43 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:27:43 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:27:43 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:27:44 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:27:44 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:30:00 [TRACE] 程式啟動
+2022-04-29 09:30:00 [INFO] System,與Server端建立連線中
+2022-04-29 09:30:00 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:30:00 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:30:00 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:30:04 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:30:04 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:30:04 [INFO] 己傳送【S002】指令至Clien端
+2022-04-29 09:30:04 [INFO] 己完成【CMD_NO:S002,CMD_NAME:MAGAZINE_INTO_MECHANISM,CARRIER:ERROR,SCHEDULE:,ORIGIN:ASEF3-K11-8F-3800-INREADER1,DESTINATION:ASEF3-K11-8F-3800-INLIFT1】指令至Clien端
+2022-04-29 09:30:04 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:30:04 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:30:05 [INFO] ReplyTEID:29093005012
+2022-04-29 09:30:14 [INFO] 己傳送【S004】指令至Clien端
+2022-04-29 09:30:14 [INFO] 己完成【CMD_NO:S004,CMD_NAME:MAGAZINE_REJECT,CARRIER:ERROR,SCHEDULE:,ORIGIN:ASEF3-K11-8F-3800-INLIFT1,DESTINATION:ASEF3-K11-8F-3800-IN1_R_001,REJECT_CODE:RC0001,REJECT_MESSAGE:CARRIER_1D_FAIL】指令至Clien端
+2022-04-29 09:30:15 [INFO] ReplyTEID:29093015216
+2022-04-29 09:30:39 [INFO] 己傳送【Q001】指令至Clien端
+2022-04-29 09:30:39 [INFO] 己完成【CMD_NO:Q001,CMD_NAME:MAGAZINE_GO_TO_WHERE,CARRIER:MD99999X4,STATION:ASEF3-K11-8F-3800-INREADER1】指令至Clien端
+2022-04-29 09:30:39 [INFO] ReplyTEID:29093039162
+2022-04-29 09:30:50 [INFO] 己接收Server端【CMD_NO:M504,CMD_NAME:MAGAZINE_REJECT,CARRIER:MD99999X4,SCHEDULE:00AAAAB001,ORIGIN:ASEF3-K11-8F-3800-INREADER1,DESTINATION:ASEF3-K11-8F-3800-INREJECT,REJECT_CODE:RC0001,REJECT_MESSAGE:REQUEST_REJECT,TEID:29093050347】指令
+2022-04-29 09:33:41 [INFO] 己傳送【S002】指令至Clien端
+2022-04-29 09:33:41 [INFO] 己完成【CMD_NO:S002,CMD_NAME:MAGAZINE_INTO_MECHANISM,CARRIER:ERROR,SCHEDULE:,ORIGIN:ASEF3-K11-8F-3800-INREADER1,DESTINATION:ASEF3-K11-8F-3800-INLIFT1】指令至Clien端
+2022-04-29 09:33:41 [INFO] ReplyTEID:29093341343
+2022-04-29 09:35:52 [INFO] 己傳送【S004】指令至Clien端
+2022-04-29 09:35:52 [INFO] 己完成【CMD_NO:S004,CMD_NAME:MAGAZINE_REJECT,CARRIER:ERROR,SCHEDULE:,ORIGIN:ASEF3-K11-8F-3800-INLIFT1,DESTINATION:ASEF3-K11-8F-3800-IN1_R_001,REJECT_CODE:RC0001,REJECT_MESSAGE:CARRIER_1D_FAIL】指令至Clien端
+2022-04-29 09:35:53 [INFO] ReplyTEID:29093553395
+2022-04-29 09:37:21 [TRACE] 程式關閉
+2022-04-29 09:46:30 [TRACE] 程式啟動
+2022-04-29 09:46:30 [INFO] System,與Server端建立連線中
+2022-04-29 09:46:30 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:46:30 [INFO] System,Server 開啟連線通訊!
+2022-04-29 09:46:30 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:46:30 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 09:46:30 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 09:46:35 [INFO] 完成與Server端的連線建立!
+2022-04-29 09:46:35 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 09:48:29 [INFO] 己傳送【Q001】指令至Clien端
+2022-04-29 09:48:29 [INFO] 己完成【CMD_NO:Q001,CMD_NAME:MAGAZINE_GO_TO_WHERE,CARRIER:MD99999X4,STATION:ASEF3-K11-8F-3800-INREADER1】指令至Clien端
+2022-04-29 09:48:29 [INFO] ReplyTEID:29094829699
+2022-04-29 09:51:17 [INFO] 己傳送【Q001】指令至Clien端
+2022-04-29 09:51:17 [INFO] 己完成【CMD_NO:Q001,CMD_NAME:MAGAZINE_GO_TO_WHERE,CARRIER:MD99999X4,STATION:ASEF3-K11-8F-3800-INREADER1】指令至Clien端
+2022-04-29 09:51:18 [INFO] ReplyTEID:29095118225
+2022-04-29 09:51:42 [INFO] 己傳送【S002】指令至Clien端
+2022-04-29 09:51:42 [INFO] 己完成【CMD_NO:S002,CMD_NAME:MAGAZINE_INTO_MECHANISM,CARRIER:ERROR,SCHEDULE:,ORIGIN:ASEF3-K11-8F-3800-INREADER1,DESTINATION:ASEF3-K11-8F-3800-INLIFT1】指令至Clien端
+2022-04-29 09:51:42 [INFO] ReplyTEID:29095142777
+2022-04-29 09:55:31 [INFO] 己傳送【Q001】指令至Clien端
+2022-04-29 09:55:31 [INFO] 己完成【CMD_NO:Q001,CMD_NAME:MAGAZINE_GO_TO_WHERE,CARRIER:MD99999X4,STATION:ASEF3-K11-8F-3800-INREADER1】指令至Clien端
+2022-04-29 09:55:32 [INFO] ReplyTEID:29095532015
+2022-04-29 09:55:35 [INFO] 己接收Server端【CMD_NO:M504,CMD_NAME:MAGAZINE_REJECT,CARRIER:MD99999X4,SCHEDULE:00AAAAB001,ORIGIN:ASEF3-K11-8F-3800-INREADER1,DESTINATION:ASEF3-K11-8F-3800-INREJECT,REJECT_CODE:RC0001,REJECT_MESSAGE:REQUEST_REJECT,TEID:29095535410】指令
+2022-04-29 09:56:59 [INFO] 己傳送【Q001】指令至Clien端
+2022-04-29 09:56:59 [INFO] 己完成【CMD_NO:Q001,CMD_NAME:MAGAZINE_GO_TO_WHERE,CARRIER:MD99999X4,STATION:ASEF3-K11-8F-3800-INREADER1】指令至Clien端
+2022-04-29 09:56:59 [INFO] ReplyTEID:29095659274
+2022-04-29 09:57:33 [INFO] 己接收Server端【CMD_NO:M504,CMD_NAME:MAGAZINE_REJECT,CARRIER:MD99999X4,SCHEDULE:00AAAAB001,ORIGIN:ASEF3-K11-8F-3800-INREADER1,DESTINATION:ASEF3-K11-8F-3800-INREJECT,REJECT_CODE:RC0001,REJECT_MESSAGE:REQUEST_REJECT,TEID:29095733880】指令
+2022-04-29 09:58:41 [INFO] 己傳送【S002】指令至Clien端
+2022-04-29 09:58:41 [INFO] 己完成【CMD_NO:S002,CMD_NAME:MAGAZINE_INTO_MECHANISM,CARRIER:ERROR,SCHEDULE:,ORIGIN:ASEF3-K11-8F-3800-INREADER1,DESTINATION:ASEF3-K11-8F-3800-INLIFT1】指令至Clien端
+2022-04-29 09:58:41 [INFO] ReplyTEID:29095841195
+2022-04-29 10:15:55 [TRACE] 程式關閉
+2022-04-29 11:18:31 [TRACE] 程式啟動
+2022-04-29 11:18:31 [INFO] System,與Server端建立連線中
+2022-04-29 11:18:31 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 11:18:31 [INFO] System,Server 開啟連線通訊!
+2022-04-29 11:18:31 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 11:18:31 [INFO] System,Ping IP:127.0.0.1, Subject:Oven, 遠端連線位置:Success
+2022-04-29 11:18:32 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，連線中
+2022-04-29 11:18:32 [INFO] 完成與Server端的連線建立!
+2022-04-29 11:18:32 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己連線並開始監聽
+2022-04-29 11:19:10 [INFO] 己傳送【S010】指令至Clien端
+2022-04-29 11:19:10 [INFO] 己完成【CMD_NO:S010,CMD_NAME:RGV_CIRCLING,CARRIER:MD99999X4,SCHEDULE:,RGV_NO:RGV_001,STATION:ASEF3-K11-8F-3800-T01_UDLIFT,NUMBER_OF_TURNS:1】指令至Clien端
+2022-04-29 11:19:11 [INFO] ReplyTEID:29111911010
+2022-04-29 11:58:05 [ERROR] Client關閉程式MyClientSocket.Received(), SocketException：System.Net.Sockets.SocketException (0x80004005): 遠端主機已強制關閉一個現存的連線。
+   於 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   於 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   於 WinSocket.MyClientSocket.Received()
+2022-04-29 11:58:05 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 11:58:05 [ERROR] MyClientSocket.Received(), SocketException：System.Net.Sockets.SocketException (0x80004005): 遠端主機已強制關閉一個現存的連線。
+   於 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   於 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   於 WinSocket.MyClientSocket.Received()
+2022-04-29 11:58:05 [INFO] 客戶端連接:127.0.0.1-服務端埠:6000-Subject:Oven，己斷線並結束監聽
+2022-04-29 11:58:09 [TRACE] 程式關閉
